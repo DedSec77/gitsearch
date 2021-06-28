@@ -11,6 +11,7 @@ If you have debian
 ./install_debian.sh
 <br/>
 If arch
+<br/>
 ./install_arch.sh
 
 <br/>
