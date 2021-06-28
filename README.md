@@ -14,7 +14,7 @@ If arch
 ./install_arch.sh
 
 <br/>
-# How use
+# Commands
 <br/>
 gitsearch repository name 
 
