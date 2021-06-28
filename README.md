@@ -15,6 +15,7 @@ If arch
 
 <br/>
 # How use
+<br/>
 gitsearch repository name 
 
 ![изображение](https://user-images.githubusercontent.com/55799553/123633025-79e9cb80-d83a-11eb-8768-1c7ffd2fdb57.png)
