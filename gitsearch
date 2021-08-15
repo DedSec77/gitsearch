@@ -26,7 +26,7 @@ for x in lists:
 print(Fore.RESET)
 numb = input(Fore.BLUE +"Enter number:")
 print(Fore.RESET)
-if numb < 0:
+if int(numb) < 0:
     AttributeError()
 elif "q" == numb:
     exit(0)
